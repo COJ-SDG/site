@@ -14,7 +14,15 @@
 $indicatorContent-horizontalRule-color: transparent;
 
 //Label colours
+$status-color-complete: $text-color !default;
+$status-color-inprogress: $color-light !default;
+$status-color-notstarted: $text-color !default;
+$status-color-notapplicable: $text-color !default;
 $status-backgroundColor-complete: #5cb85c !default;
 $status-backgroundColor-inprogress: #E27874 !default;
-$status-backgroundColor-notstarted: white !default;
+$status-backgroundColor-notstarted: #E27874 !default;
 $status-backgroundColor-notapplicable: #B7B7B7 !default;
+$status-backgroundColor-inner-complete: $status-backgroundColor-complete !default;
+$status-backgroundColor-inner-inprogress: $status-backgroundColor-inprogress !default;
+$status-backgroundColor-inner-notstarted: $status-backgroundColor-notstarted !default;
+$status-backgroundColor-inner-notapplicable: $status-backgroundColor-notapplicable !default;
