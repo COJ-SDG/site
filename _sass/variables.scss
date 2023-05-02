@@ -12,12 +12,13 @@
 //$link-color: #337ab7;
 //$footer-text-color: #000000;
 $indicatorContent-horizontalRule-color: transparent;
+$color-dark: #0b0c0c !default;
 
 //Label colours
-$status-color-complete: $text-color !default;
-$status-color-inprogress: $color-light !default;
-$status-color-notstarted: $text-color !default;
-$status-color-notapplicable: $text-color !default;
+$status-color-complete: $color-dark !default;
+$status-color-inprogress: $color-dark !default;
+$status-color-notstarted: $color-dark !default;
+$status-color-notapplicable: $color-dark !default;
 $status-backgroundColor-complete: #5cb85c !default;
 $status-backgroundColor-inprogress: #E27874 !default;
 $status-backgroundColor-notstarted: #E27874 !default;
