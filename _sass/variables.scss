@@ -14,6 +14,7 @@
 $indicatorContent-horizontalRule-color: transparent;
 
 //Label colours
-.status.complete { background-color: green; }
-.status.notstarted { background-color: red; }
-.status.notapplicable { background-color: grey; }
+$status-backgroundColor-complete: #5cb85c !default;
+$status-backgroundColor-inprogress: #E27874 !default;
+$status-backgroundColor-notstarted: white !default;
+$status-backgroundColor-notapplicable: #B7B7B7 !default;
