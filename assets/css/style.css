@@ -1431,7 +1431,7 @@ body.contrast-high div#serieses {
       background: #E27874; }
   .status.notstarted {
     color: #0b0c0c;
-    border: 1px solid #0b0c0c;
+    border: 1px solid transparent;
     background-color: #E27874;
     background: #E27874; }
     .status.notstarted .status-inner {
@@ -1439,7 +1439,7 @@ body.contrast-high div#serieses {
       background: #E27874; }
   .status.notapplicable {
     color: #0b0c0c;
-    border: 1px solid #0b0c0c;
+    border: 1px solid transparent;
     background-color: #B7B7B7;
     background: #B7B7B7; }
     .status.notapplicable .status-inner {
@@ -1465,7 +1465,7 @@ body.contrast-high .status.inprogress {
     background: #767676 !important;
     color: white; }
 body.contrast-high .status.notstarted {
-  border: 1px solid white;
+  border: 1px solid transparent;
   background-color: black;
   background: black;
   color: white !important; }
@@ -1474,7 +1474,7 @@ body.contrast-high .status.notstarted {
     background: black !important;
     color: white !important; }
 body.contrast-high .status.notapplicable {
-  border: 1px solid white;
+  border: 1px solid transparent;
   background-color: #B7B7B7;
   background: #B7B7B7;
   color: black !important; }
@@ -1746,7 +1746,7 @@ body.contrast-high .indicator.goal-banner .goal-tiles img {
         background: #E27874; }
     .layout-reportingstatus #main-content .statuses > div .status.notstarted {
       color: #0b0c0c;
-      border: 1px solid #0b0c0c;
+      border: 1px solid transparent;
       background-color: #E27874;
       background: #E27874; }
       .layout-reportingstatus #main-content .statuses > div .status.notstarted .status-inner {
@@ -1754,7 +1754,7 @@ body.contrast-high .indicator.goal-banner .goal-tiles img {
         background: #E27874; }
     .layout-reportingstatus #main-content .statuses > div .status.notapplicable {
       color: #0b0c0c;
-      border: 1px solid #0b0c0c;
+      border: 1px solid transparent;
       background-color: #B7B7B7;
       background: #B7B7B7; }
       .layout-reportingstatus #main-content .statuses > div .status.notapplicable .status-inner {
@@ -1892,7 +1892,7 @@ body.contrast-high .indicator.goal-banner .goal-tiles img {
       background: #767676 !important;
       color: white; }
   .layout-reportingstatus.contrast-high #main-content .statuses .status.notstarted {
-    border: 1px solid white;
+    border: 1px solid transparent;
     background-color: black;
     background: black;
     color: white !important; }
@@ -1901,7 +1901,7 @@ body.contrast-high .indicator.goal-banner .goal-tiles img {
       background: black !important;
       color: white !important; }
   .layout-reportingstatus.contrast-high #main-content .statuses .status.notapplicable {
-    border: 1px solid white;
+    border: 1px solid transparent;
     background-color: #B7B7B7;
     background: #B7B7B7;
     color: black !important; }
@@ -1910,7 +1910,7 @@ body.contrast-high .indicator.goal-banner .goal-tiles img {
       background: #B7B7B7 !important;
       color: black !important; }
   .layout-reportingstatus.contrast-high #main-content .statuses .status.notstarted {
-    border: 1px solid white !important; }
+    border: 1px solid transparent !important; }
 
 .layout-goals #main-content .goal-tiles .goal-tile a {
   width: 100%;
