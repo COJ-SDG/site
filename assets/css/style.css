@@ -1414,7 +1414,7 @@ body.contrast-high div#serieses {
     padding: 0 2px;
     border-radius: 5px; }
   .status.complete {
-    color: white;
+    color: #0b0c0c;
     border: 1px solid transparent;
     background-color: #5cb85c;
     background: #5cb85c; }
@@ -1422,7 +1422,7 @@ body.contrast-high div#serieses {
       background-color: #5cb85c;
       background: #5cb85c; }
   .status.inprogress {
-    color: white;
+    color: #0b0c0c;
     border: 1px solid transparent;
     background-color: #E27874;
     background: #E27874; }
@@ -1432,19 +1432,19 @@ body.contrast-high div#serieses {
   .status.notstarted {
     color: #0b0c0c;
     border: 1px solid #0b0c0c;
-    background-color: white;
-    background: white; }
+    background-color: #E27874;
+    background: #E27874; }
     .status.notstarted .status-inner {
-      background-color: white;
-      background: white; }
+      background-color: #E27874;
+      background: #E27874; }
   .status.notapplicable {
     color: #0b0c0c;
     border: 1px solid #0b0c0c;
     background-color: #B7B7B7;
     background: #B7B7B7; }
     .status.notapplicable .status-inner {
-      background-color: rgba(255, 255, 255, 0.8);
-      background: rgba(255, 255, 255, 0.8); }
+      background-color: #B7B7B7;
+      background: #B7B7B7; }
 
 body.contrast-high .status.complete {
   border: 1px solid transparent;
@@ -1479,8 +1479,8 @@ body.contrast-high .status.notapplicable {
   background: #B7B7B7;
   color: black !important; }
   body.contrast-high .status.notapplicable .status-inner {
-    background-color: rgba(255, 255, 255, 0.8) !important;
-    background: rgba(255, 255, 255, 0.8) !important;
+    background-color: #B7B7B7 !important;
+    background: #B7B7B7 !important;
     color: black !important; }
 
 .previous-next-links .btn-primary {
@@ -1729,7 +1729,7 @@ body.contrast-high .indicator.goal-banner .goal-tiles img {
       padding: 0 2px;
       border-radius: 5px; }
     .layout-reportingstatus #main-content .statuses > div .status.complete {
-      color: white;
+      color: #0b0c0c;
       border: 1px solid transparent;
       background-color: #5cb85c;
       background: #5cb85c; }
@@ -1737,7 +1737,7 @@ body.contrast-high .indicator.goal-banner .goal-tiles img {
         background-color: #5cb85c;
         background: #5cb85c; }
     .layout-reportingstatus #main-content .statuses > div .status.inprogress {
-      color: white;
+      color: #0b0c0c;
       border: 1px solid transparent;
       background-color: #E27874;
       background: #E27874; }
@@ -1747,19 +1747,19 @@ body.contrast-high .indicator.goal-banner .goal-tiles img {
     .layout-reportingstatus #main-content .statuses > div .status.notstarted {
       color: #0b0c0c;
       border: 1px solid #0b0c0c;
-      background-color: white;
-      background: white; }
+      background-color: #E27874;
+      background: #E27874; }
       .layout-reportingstatus #main-content .statuses > div .status.notstarted .status-inner {
-        background-color: white;
-        background: white; }
+        background-color: #E27874;
+        background: #E27874; }
     .layout-reportingstatus #main-content .statuses > div .status.notapplicable {
       color: #0b0c0c;
       border: 1px solid #0b0c0c;
       background-color: #B7B7B7;
       background: #B7B7B7; }
       .layout-reportingstatus #main-content .statuses > div .status.notapplicable .status-inner {
-        background-color: rgba(255, 255, 255, 0.8);
-        background: rgba(255, 255, 255, 0.8); }
+        background-color: #B7B7B7;
+        background: #B7B7B7; }
     .layout-reportingstatus #main-content .statuses > div .status .status-inner {
       padding: 0 2px;
       border-radius: 5px; }
@@ -1783,8 +1783,8 @@ body.contrast-high .indicator.goal-banner .goal-tiles img {
     background-color: #B7B7B7;
     background: #B7B7B7; }
   .layout-reportingstatus #main-content .goal-stats .notstarted {
-    background-color: white;
-    background: white; }
+    background-color: #E27874;
+    background: #E27874; }
   .layout-reportingstatus #main-content .goal-stats .inprogress {
     background-color: #E27874;
     background: #E27874; }
@@ -1906,8 +1906,8 @@ body.contrast-high .indicator.goal-banner .goal-tiles img {
     background: #B7B7B7;
     color: black !important; }
     .layout-reportingstatus.contrast-high #main-content .statuses .status.notapplicable .status-inner {
-      background-color: rgba(255, 255, 255, 0.8) !important;
-      background: rgba(255, 255, 255, 0.8) !important;
+      background-color: #B7B7B7 !important;
+      background: #B7B7B7 !important;
       color: black !important; }
   .layout-reportingstatus.contrast-high #main-content .statuses .status.notstarted {
     border: 1px solid white !important; }
