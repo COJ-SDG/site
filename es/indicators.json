@@ -151,11 +151,11 @@
         },
         {
           "id": "2-2-2",
-          "title": "Prevalencia de la malnutrición (peso para la estatura, desviación típica > +2 o < -2 de la mediana de los patrones de crecimiento infantil de la OMS) entre los niños menores de 5 años, desglosada por tipo (emaciación y sobrepeso)",
+          "title": "Severe acute malnutrition <5yr incidence",
           "description": "",
           "keywords": "",
           "href": "/site/es/2-2-2",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "2-2-3",
@@ -247,35 +247,35 @@
         
         {
           "id": "3-1-1",
-          "title": "Tasa de mortalidad materna",
+          "title": "Maternal mortality in facility ratio",
           "description": "",
           "keywords": "",
           "href": "/site/es/3-1-1",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "3-1-2",
-          "title": "Proporción de partos atendidos por personal sanitario especializado",
+          "title": "Live births in all facility",
           "description": "",
           "keywords": "",
           "href": "/site/es/3-1-2",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "3-2-1",
-          "title": "Tasa de mortalidad de niños menores de 5 años",
+          "title": "Blank",
           "description": "",
           "keywords": "",
           "href": "/site/es/3-2-1",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "3-2-2",
-          "title": "Tasa de mortalidad neonatal",
+          "title": "Blank",
           "description": "",
           "keywords": "",
           "href": "/site/es/3-2-2",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "3-3-1",
@@ -295,11 +295,11 @@
         },
         {
           "id": "3-3-3",
-          "title": "Incidencia de la malaria por cada 1.000 habitantes",
+          "title": "New Malaria cases reported",
           "description": "",
           "keywords": "",
           "href": "/site/es/3-3-3",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "3-3-4",
@@ -359,11 +359,11 @@
         },
         {
           "id": "3-7-1",
-          "title": "Proporción de mujeres en edad de procrear (entre 15 y 49 años) que cubren sus necesidades de planificación familiar con métodos modernos",
+          "title": "Couple year protection rate",
           "description": "",
           "keywords": "",
           "href": "/site/es/3-7-1",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "3-7-2",
@@ -447,11 +447,11 @@
         },
         {
           "id": "3-c-1",
-          "title": "Densidad y distribución del personal sanitario",
+          "title": "Health worker density index",
           "description": "",
           "keywords": "",
           "href": "/site/es/3-c-1",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "3-d-1",
