@@ -37,3 +37,6 @@ exclude:
   - README.md
   - LICENSE
 
+# Configure the text (or "translation key") to be used on the
+# non-global metadata tab.
+non_global_metadata: COJ Metadata
