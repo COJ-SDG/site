@@ -23,27 +23,27 @@
         },
         {
           "id": "1-2-1",
-          "title": "Proporción de la población que vive por debajo del umbral nacional de pobreza, desglosada por sexo y edad",
+          "title": "Proportion of population living below the national poverty line, by sex and age",
           "description": "",
           "keywords": "",
           "href": "/site/es/1-2-1",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "1-2-2",
-          "title": "Proporción de hombres, mujeres y niños de todas las edades que viven en la pobreza, en todas sus dimensiones, con arreglo a las definiciones nacionales",
+          "title": "Proportion of men, women and children of all ages living in poverty in all its dimensions according to national definitions",
           "description": "",
           "keywords": "",
           "href": "/site/es/1-2-2",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "1-3-1",
-          "title": "Proporción de la población cubierta por sistemas o niveles mínimos de protección social, desglosada por sexo, distinguiendo entre los niños, los desempleados, los ancianos, las personas con discapacidad, las mujeres embarazadas, los recién nacidos, las víctimas de accidentes de trabajo, los pobres y los vulnerables",
+          "title": "Proportion of population covered by social protection floors/systems, by sex, distinguishing children, unemployed persons, older persons, persons with disabilities, pregnant women, newborns, work-injury victims and the poor and the vulnerable",
           "description": "",
           "keywords": "",
           "href": "/site/es/1-3-1",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "1-4-1",
@@ -87,11 +87,11 @@
         },
         {
           "id": "1-5-4",
-          "title": "Proporción de gobiernos locales que adoptan y aplican estrategias locales de reducción del riesgo de desastres en consonancia con las estrategias nacionales de reducción del riesgo de desastres",
+          "title": "Proportion of local governments that adopt and implement local disaster risk reduction strategies in line with national disaster risk reduction strategies",
           "description": "",
           "keywords": "",
           "href": "/site/es/1-5-4",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "1-a-1",
@@ -127,11 +127,11 @@
         
         {
           "id": "2-1-1",
-          "title": "Prevalencia de la subalimentación",
+          "title": "Prevalence of undernourishment",
           "description": "",
           "keywords": "",
           "href": "/site/es/2-1-1",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "2-1-2",
@@ -279,19 +279,19 @@
         },
         {
           "id": "3-3-1",
-          "title": "Número de nuevas infecciones por el VIH por cada 1.000 habitantes no infectados, desglosado por sexo, edad y poblaciones clave",
+          "title": "Number of new HIV infections per 1,000 uninfected population, by sex, age and key populations",
           "description": "",
           "keywords": "",
           "href": "/site/es/3-3-1",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "3-3-2",
-          "title": "Incidencia de la tuberculosis por cada 100.000 habitantes",
+          "title": "Tuberculosis incidence per 100,000 population",
           "description": "",
           "keywords": "",
           "href": "/site/es/3-3-2",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "3-3-3",
