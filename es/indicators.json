@@ -71,11 +71,11 @@
         },
         {
           "id": "1-5-3",
-          "title": "Number of countries that adopt and implement national disaster risk reduction strategies in line with the Sendai Framework for Disaster Risk Reduction 2015-2030",
+          "title": "Número de países que adoptan y aplican estrategias nacionales de reducción del riesgo de desastres en consonancia con el Marco de Sendái para la Reducción del Riesgo de Desastres 2015‐2030",
           "description": "",
           "keywords": "",
           "href": "/site/es/1-5-3",
-          "status": "complete"
+          "status": "notstarted"
         },
         {
           "id": "1-5-4",
@@ -127,11 +127,11 @@
         },
         {
           "id": "2-1-2",
-          "title": "Prevalencia de la inseguridad alimentaria moderada o grave entre la población, según la escala de experiencia de inseguridad alimentaria",
+          "title": "Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",
           "description": "",
           "keywords": "",
           "href": "/site/es/2-1-2",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "2-2-1",
@@ -143,11 +143,11 @@
         },
         {
           "id": "2-2-2",
-          "title": "Severe acute malnutrition <5yr incidence",
+          "title": "Prevalencia de la malnutrición (peso para la estatura, desviación típica > +2 o < -2 de la mediana de los patrones de crecimiento infantil de la OMS) entre los niños menores de 5 años, desglosada por tipo (emaciación y sobrepeso)",
           "description": "",
           "keywords": "",
           "href": "/site/es/2-2-2",
-          "status": "complete"
+          "status": "notstarted"
         },
         {
           "id": "2-2-3",
@@ -239,35 +239,35 @@
         
         {
           "id": "3-1-1",
-          "title": "Maternal mortality ratio",
+          "title": "Tasa de mortalidad materna",
           "description": "",
           "keywords": "",
           "href": "/site/es/3-1-1",
-          "status": "complete"
+          "status": "notstarted"
         },
         {
           "id": "3-1-2",
-          "title": "Live births in all facility",
+          "title": "Proporción de partos atendidos por personal sanitario especializado",
           "description": "",
           "keywords": "",
           "href": "/site/es/3-1-2",
-          "status": "complete"
+          "status": "notstarted"
         },
         {
           "id": "3-2-1",
-          "title": "Under-5 mortality rate",
+          "title": "Tasa de mortalidad de niños menores de 5 años",
           "description": "",
           "keywords": "",
           "href": "/site/es/3-2-1",
-          "status": "complete"
+          "status": "notstarted"
         },
         {
           "id": "3-2-2",
-          "title": "Blank",
+          "title": "Tasa de mortalidad neonatal",
           "description": "",
           "keywords": "",
           "href": "/site/es/3-2-2",
-          "status": "complete"
+          "status": "notstarted"
         },
         {
           "id": "3-3-1",
@@ -287,11 +287,11 @@
         },
         {
           "id": "3-3-3",
-          "title": "New Malaria cases reported",
+          "title": "Incidencia de la malaria por cada 1.000 habitantes",
           "description": "",
           "keywords": "",
           "href": "/site/es/3-3-3",
-          "status": "complete"
+          "status": "notstarted"
         },
         {
           "id": "3-3-4",
@@ -351,7 +351,7 @@
         },
         {
           "id": "3-7-1",
-          "title": "Couple year protection rate",
+          "title": "Proportion of women of reproductive age (aged 15-49 years) who have their need for family planning satisfied with modern methods",
           "description": "",
           "keywords": "",
           "href": "/site/es/3-7-1",
@@ -439,11 +439,11 @@
         },
         {
           "id": "3-c-1",
-          "title": "Health worker density index",
+          "title": "Densidad y distribución del personal sanitario",
           "description": "",
           "keywords": "",
           "href": "/site/es/3-c-1",
-          "status": "complete"
+          "status": "notstarted"
         },
         {
           "id": "3-d-1",
@@ -791,19 +791,19 @@
         
         {
           "id": "7-1-1",
-          "title": "Proportion of population with access to electricity",
+          "title": "Proporción de la población que tiene acceso a la electricidad",
           "description": "",
           "keywords": "",
           "href": "/site/es/7-1-1",
-          "status": "complete"
+          "status": "notstarted"
         },
         {
           "id": "7-1-2",
-          "title": "Proportion of population with primary reliance on clean fuels and technology (test)",
+          "title": "Proporción de la población cuya fuente primaria de energía son los combustibles y tecnologías limpios",
           "description": "",
           "keywords": "",
           "href": "/site/es/7-1-2",
-          "status": "complete"
+          "status": "notstarted"
         },
         {
           "id": "7-2-1",
@@ -811,7 +811,7 @@
           "description": "",
           "keywords": "",
           "href": "/site/es/7-2-1",
-          "status": "notapplicable"
+          "status": "notstarted"
         },
         {
           "id": "7-3-1",
