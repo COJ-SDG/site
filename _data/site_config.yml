@@ -56,15 +56,15 @@ disclaimer:
   message: ''
   hidden: true
 email_contacts:
-  questions: test@example.com
-  suggestions: test@example.com
-  functional: test@example.com
+  questions: MphoNema@joburg.org.za
+  suggestions: MphoNema@joburg.org.za
+  functional: MphoNema@joburg.org.za
 empty_metadata_placeholder: ''
 empty_metadata_placeholder_sources: ''
 environment: staging
 footer_language_toggle: none
 footer_menu:
-  - path: /contact-us
+  - path: 'malito:MphoNema@joburg.org.za' #/contact-us
     translation_key: menu.contact_us
   - path: 'https://twitter.com/CityofJoburgZA'
     translation_key: general.twitter
