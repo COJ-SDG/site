@@ -68,7 +68,7 @@ footer_menu:
     translation_key: menu.contact_us
   - path: 'https://twitter.com/CityofJoburgZA'
     translation_key: general.twitter
-  - path: 'https://facebook.com/MyFacebookAccount'
+  - path: 'https://www.facebook.com/CityofJoburg'
     translation_key: general.facebook
   - path: /about/cookies-and-privacy/
     translation_key: menu.cookies
@@ -79,21 +79,24 @@ frontpage_cards:
     button_label: ''
     button_link: ''
     rule_color: ''
-  - title: About the COJ
+  - title: Publications
     content: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi mollis
-      cursus est sed dapibus.
+      [Marang 20th Edition](https://www.joburg.org.za/media_/Documents/Marang%20Newsletter/Marang_20th_Edition.pdf)
+      [City of Johannesburg - Climate Action Plan (CAP)](https://www.joburg.org.za/departments_/Documents/EISD/City of Johannesburg - Climate Action Plan %28CAP%29.pdf)
     include: ''
-    button_label: Read more
-    button_link: 'https://example.com'
+    button_label: ''
+    button_link: ''
     rule_color: ''
-  - title: Reporting in the City
+  - title: Useful resources
     content: |
-      Nam vestibulum, purus quis porttitor imperdiet, nisl sem mollis nisl, a
-      interdum risus enim vitae tortor. Donec feugiat accumsan rutrum.
+      [South Africa Goal Tracker Platform](https://south-africa.goaltracker.org/platform/south-africa)
+      
+      [The Global Goals](https://www.globalgoals.org/)
+      
+      [UN Department of Economic and Social Affairs](https://sustainabledevelopment.un.org/)
     include: ''
-    button_label: Read more
-    button_link: 'https://example.com'
+    button_label: ''
+    button_link: ''
     rule_color: ''
 frontpage_goals_grid:
   title: frontpage.heading_short
@@ -186,9 +189,9 @@ menu:
   - path: /reporting-status
     translation_key: menu.reporting_status
     dropdown: []
-  - path: /news
-    translation_key: menu.updates
-    dropdown: []
+  #- path: /news
+    #translation_key: menu.updates
+    #dropdown: []
   - path: /faq
     translation_key: menu.faq
     dropdown: []
