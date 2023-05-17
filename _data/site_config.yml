@@ -64,7 +64,7 @@ empty_metadata_placeholder_sources: ''
 environment: staging
 footer_language_toggle: none
 footer_menu:
-  - path: 'malito:MphoNema@joburg.org.za' #/contact-us
+  - path: 'mailto:MphoNema@joburg.org.za' #/contact-us
     translation_key: menu.contact_us
   - path: 'https://twitter.com/CityofJoburgZA'
     translation_key: general.twitter
