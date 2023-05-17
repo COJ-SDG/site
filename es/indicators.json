@@ -247,27 +247,27 @@
         },
         {
           "id": "3-1-2",
-          "title": "Proporción de partos atendidos por personal sanitario especializado",
+          "title": "Proportion of births attended by skilled health personnel",
           "description": "",
           "keywords": "",
           "href": "/site/es/3-1-2",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "3-2-1",
-          "title": "Tasa de mortalidad de niños menores de 5 años",
+          "title": "Under-5 mortality rate",
           "description": "",
           "keywords": "",
           "href": "/site/es/3-2-1",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "3-2-2",
-          "title": "Tasa de mortalidad neonatal",
+          "title": "Neonatal mortality rate",
           "description": "",
           "keywords": "",
           "href": "/site/es/3-2-2",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "3-3-1",
