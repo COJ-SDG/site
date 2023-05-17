@@ -129,7 +129,7 @@ var translations = {
         <link res="stylesheet" href="https://cdn.datatables.net/1.11.5/css/dataTables.bootstrap5.min.css">
         <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css" crossorigin="">
         <link rel="stylesheet" href="https://cdn.datatables.net/fixedcolumns/3.2.3/css/fixedColumns.dataTables.min.css" crossorigin="">
-        <link rel="stylesheet" href="/site/assets/css/style.css?v=20230517113203">
+        <link rel="stylesheet" href="/site/assets/css/style.css?v=20230517120957">
         <link rel="stylesheet" href="https://unpkg.com/leaflet@1.3.4/dist/leaflet.css"
           integrity="sha512-puBpdR0798OZvTTbP4A8Ix/l+A4dHDD0DGqYW6RQ+9jxkRFclaxxQb/SJAWZfWAkuyeQUytO7+7N4QKrDh+drA=="
           crossorigin=""/>
@@ -180,8 +180,6 @@ layout-config-builder
     <a class="nav-link" href="/site/goals">Goals</a>
 </li><li class="nav-item ">
     <a class="nav-link" href="/site/reporting-status">Reporting Status</a>
-</li><li class="nav-item ">
-    <a class="nav-link" href="/site/news">Updates</a>
 </li><li class="nav-item ">
     <a class="nav-link" href="/site/faq">FAQ</a>
 </li><li class="nav-item ">
@@ -707,7 +705,7 @@ data-event-label="high"
 
     
       try {
-        var currentValue = normalizeCurrentValue('footer_menu', [{"path":"/contact-us","translation_key":"menu.contact_us"},{"path":"https://twitter.com/CityofJoburgZA","translation_key":"general.twitter"},{"path":"https://facebook.com/MyFacebookAccount","translation_key":"general.facebook"},{"path":"/about/cookies-and-privacy/","translation_key":"menu.cookies"}]);
+        var currentValue = normalizeCurrentValue('footer_menu', [{"path":"/contact-us","translation_key":"menu.contact_us"},{"path":"https://twitter.com/CityofJoburgZA","translation_key":"general.twitter"},{"path":"https://www.facebook.com/CityofJoburg","translation_key":"general.facebook"},{"path":"/about/cookies-and-privacy/","translation_key":"menu.cookies"}]);
         var propertyEditor = editor.getEditor('root.footer_menu');
         propertyEditor.setValue(null);
         propertyEditor.setValue(currentValue);
@@ -721,7 +719,7 @@ data-event-label="high"
 
     
       try {
-        var currentValue = normalizeCurrentValue('frontpage_cards', [{"title":"frontpage.download_all","content":"","include":"components/download-all-data.html","button_label":"","button_link":"","rule_color":""},{"title":"About the COJ","content":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi mollis\ncursus est sed dapibus.\n","include":"","button_label":"Read more","button_link":"https://example.com","rule_color":""},{"title":"Reporting in the City","content":"Nam vestibulum, purus quis porttitor imperdiet, nisl sem mollis nisl, a\ninterdum risus enim vitae tortor. Donec feugiat accumsan rutrum.\n","include":"","button_label":"Read more","button_link":"https://example.com","rule_color":""}]);
+        var currentValue = normalizeCurrentValue('frontpage_cards', [{"title":"frontpage.download_all","content":"","include":"components/download-all-data.html","button_label":"","button_link":"","rule_color":""},{"title":"Publications","content":"[Marang 20th Edition](https://www.joburg.org.za/media_/Documents/Marang%20Newsletter/Marang_20th_Edition.pdf)\n[City of Johannesburg - Climate Action Plan (CAP)](https://www.joburg.org.za/departments_/Documents/EISD/City of Johannesburg - Climate Action Plan %28CAP%29.pdf)\n","include":"","button_label":"","button_link":"","rule_color":""},{"title":"Useful resources","content":"[South Africa Goal Tracker Platform](https://south-africa.goaltracker.org/platform/south-africa)\n\n[The Global Goals](https://www.globalgoals.org/)\n\n[UN Department of Economic and Social Affairs](https://sustainabledevelopment.un.org/)\n","include":"","button_label":"","button_link":"","rule_color":""}]);
         var propertyEditor = editor.getEditor('root.frontpage_cards');
         propertyEditor.setValue(null);
         propertyEditor.setValue(currentValue);
@@ -1097,7 +1095,7 @@ data-event-label="high"
 
     
       try {
-        var currentValue = normalizeCurrentValue('menu', [{"path":"/","translation_key":"general.home","dropdown":[]},{"path":"/goals","translation_key":"general.goals","dropdown":[]},{"path":"/reporting-status","translation_key":"menu.reporting_status","dropdown":[]},{"path":"/news","translation_key":"menu.updates","dropdown":[]},{"path":"/faq","translation_key":"menu.faq","dropdown":[]},{"path":"/about","translation_key":"menu.about","dropdown":[]}]);
+        var currentValue = normalizeCurrentValue('menu', [{"path":"/","translation_key":"general.home","dropdown":[]},{"path":"/goals","translation_key":"general.goals","dropdown":[]},{"path":"/reporting-status","translation_key":"menu.reporting_status","dropdown":[]},{"path":"/faq","translation_key":"menu.faq","dropdown":[]},{"path":"/about","translation_key":"menu.about","dropdown":[]}]);
         var propertyEditor = editor.getEditor('root.menu');
         propertyEditor.setValue(null);
         propertyEditor.setValue(currentValue);
@@ -1409,7 +1407,7 @@ data-event-label="high"
                         </li>
                         <li>
                             
-                            <a href="https://facebook.com/MyFacebookAccount" target="_blank">Facebook</a>
+                            <a href="https://www.facebook.com/CityofJoburg" target="_blank">Facebook</a>
                             
                         </li>
                         <li>
@@ -1456,12 +1454,12 @@ data-event-label="high"
 <script>translations['search'] = translations['search'] || {};
     translations['search']['search'] = 'Search';</script>
 
-<script src='/site/assets/js/sdg.js?v=20230517113203'></script>
+<script src='/site/assets/js/sdg.js?v=20230517120957'></script>
 
 
     
     
-    <script src="/site/assets/js/custom.js?v=20230517113203"></script><script>
+    <script src="/site/assets/js/custom.js?v=20230517120957"></script><script>
     new indicatorInit();
     new accessibilitySwitcher();
 </script>
