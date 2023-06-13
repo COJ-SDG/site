@@ -46,6 +46,6 @@ jobs:
       with:
         REPOSITORY_NAME: COJ-SDG-LIVE/COJ-SDG-LIVE.github.io
         ACCESS_TOKEN: ${{ secrets.token }}
-        BRANCH: main
+        BRANCH: master
         FOLDER: _site
         CLEAN: true
