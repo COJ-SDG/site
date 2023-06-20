@@ -7,51 +7,51 @@
         
         {
           "id": "1-1-1",
-          "title": "Proporción de la población que vive por debajo del umbral internacional de pobreza, desglosada por sexo, edad, situación laboral y ubicación geográfica (urbana o rural)",
+          "title": "Proportion of the population living below the international poverty line by sex, age, employment status and geographic location (urban/rural)",
           "description": "",
           "keywords": "",
           "href": "/site/es/1-1-1",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "1-2-1",
-          "title": "Proporción de la población que vive por debajo del umbral nacional de pobreza, desglosada por sexo y edad",
+          "title": "Proportion of population living below the national poverty line, by sex and age",
           "description": "",
           "keywords": "",
           "href": "/site/es/1-2-1",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "1-2-2",
-          "title": "Proporción de hombres, mujeres y niños de todas las edades que viven en la pobreza, en todas sus dimensiones, con arreglo a las definiciones nacionales",
+          "title": "Proportion of men, women and children of all ages living in poverty in all its dimensions according to national definitions",
           "description": "",
           "keywords": "",
           "href": "/site/es/1-2-2",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "1-3-1",
-          "title": "Proporción de la población cubierta por sistemas o niveles mínimos de protección social, desglosada por sexo, distinguiendo entre los niños, los desempleados, los ancianos, las personas con discapacidad, las mujeres embarazadas, los recién nacidos, las víctimas de accidentes de trabajo, los pobres y los vulnerables",
+          "title": "Proportion of population covered by social protection floors/systems, by sex, distinguishing children, unemployed persons, older persons, persons with disabilities, pregnant women, newborns, work-injury victims and the poor and the vulnerable",
           "description": "",
           "keywords": "",
           "href": "/site/es/1-3-1",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "1-4-1",
-          "title": "Proporción de la población que vive en hogares con acceso a los servicios básicos",
+          "title": "Proportion of population living in households with access to basic services",
           "description": "",
           "keywords": "",
           "href": "/site/es/1-4-1",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "1-4-2",
-          "title": "Proporción del total de la población adulta con derechos seguros de tenencia de la tierra: a) que posee documentación reconocida legalmente al respecto y b) considera seguros sus derechos, desglosada por sexo y tipo de tenencia",
+          "title": "Proportion of total adult population with secure tenure rights to land, (a) with legally recognized documentation, and (b) who perceive their rights to land as secure, by sex and type of tenure",
           "description": "",
           "keywords": "",
           "href": "/site/es/1-4-2",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "1-5-1",
@@ -71,19 +71,19 @@
         },
         {
           "id": "1-5-3",
-          "title": "Número de países que adoptan y aplican estrategias nacionales de reducción del riesgo de desastres en consonancia con el Marco de Sendái para la Reducción del Riesgo de Desastres 2015‐2030",
+          "title": "Number of countries that adopt and implement national disaster risk reduction strategies in line with the Sendai Framework for Disaster Risk Reduction 2015-2030",
           "description": "",
           "keywords": "",
           "href": "/site/es/1-5-3",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "1-5-4",
-          "title": "Proporción de gobiernos locales que adoptan y aplican estrategias locales de reducción del riesgo de desastres en consonancia con las estrategias nacionales de reducción del riesgo de desastres",
+          "title": "Proportion of local governments that adopt and implement local disaster risk reduction strategies in line with national disaster risk reduction strategies",
           "description": "",
           "keywords": "",
           "href": "/site/es/1-5-4",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "1-a-1",
@@ -95,19 +95,19 @@
         },
         {
           "id": "1-a-2",
-          "title": "Proporción del gasto público total que se dedica a servicios esenciales (educación, salud y protección social)",
+          "title": "Proportion of total government spending on essential services (education, health and social protection)",
           "description": "",
           "keywords": "",
           "href": "/site/es/1-a-2",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "1-b-1",
-          "title": "Gasto público social en favor de los pobres",
+          "title": "Pro-poor public social spending",
           "description": "",
           "keywords": "",
           "href": "/site/es/1-b-1",
-          "status": "notstarted"
+          "status": "complete"
         }]
     }
   },
@@ -119,19 +119,19 @@
         
         {
           "id": "2-1-1",
-          "title": "Prevalencia de la subalimentación",
+          "title": "Prevalence of undernourishment",
           "description": "",
           "keywords": "",
           "href": "/site/es/2-1-1",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "2-1-2",
-          "title": "Prevalencia de la inseguridad alimentaria moderada o grave entre la población, según la escala de experiencia de inseguridad alimentaria",
+          "title": "Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",
           "description": "",
           "keywords": "",
           "href": "/site/es/2-1-2",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "2-2-1",
@@ -143,11 +143,11 @@
         },
         {
           "id": "2-2-2",
-          "title": "Prevalencia de la malnutrición (peso para la estatura, desviación típica > +2 o < -2 de la mediana de los patrones de crecimiento infantil de la OMS) entre los niños menores de 5 años, desglosada por tipo (emaciación y sobrepeso)",
+          "title": "Prevalence of malnutrition (weight for height >+2 or <-2 standard deviation from the median of the WHO Child Growth Standards) among children under 5 years of age, by type (wasting and overweight)",
           "description": "",
           "keywords": "",
           "href": "/site/es/2-2-2",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "2-2-3",
@@ -239,59 +239,59 @@
         
         {
           "id": "3-1-1",
-          "title": "Tasa de mortalidad materna",
+          "title": "Maternal mortality ratio",
           "description": "",
           "keywords": "",
           "href": "/site/es/3-1-1",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "3-1-2",
-          "title": "Proporción de partos atendidos por personal sanitario especializado",
+          "title": "Proportion of births attended by skilled health personnel",
           "description": "",
           "keywords": "",
           "href": "/site/es/3-1-2",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "3-2-1",
-          "title": "Tasa de mortalidad de niños menores de 5 años",
+          "title": "Under-5 mortality rate",
           "description": "",
           "keywords": "",
           "href": "/site/es/3-2-1",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "3-2-2",
-          "title": "Tasa de mortalidad neonatal",
+          "title": "Neonatal mortality rate",
           "description": "",
           "keywords": "",
           "href": "/site/es/3-2-2",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "3-3-1",
-          "title": "Número de nuevas infecciones por el VIH por cada 1.000 habitantes no infectados, desglosado por sexo, edad y poblaciones clave",
+          "title": "Number of new HIV infections per 1,000 uninfected population, by sex, age and key populations",
           "description": "",
           "keywords": "",
           "href": "/site/es/3-3-1",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "3-3-2",
-          "title": "Incidencia de la tuberculosis por cada 100.000 habitantes",
+          "title": "Tuberculosis incidence per 100,000 population",
           "description": "",
           "keywords": "",
           "href": "/site/es/3-3-2",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "3-3-3",
-          "title": "Incidencia de la malaria por cada 1.000 habitantes",
+          "title": "Malaria incidence per 1,000 population",
           "description": "",
           "keywords": "",
           "href": "/site/es/3-3-3",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "3-3-4",
@@ -343,19 +343,19 @@
         },
         {
           "id": "3-6-1",
-          "title": "Tasa de mortalidad por lesiones debidas a accidentes de tráfico",
+          "title": "Death rate due to road traffic injuries",
           "description": "",
           "keywords": "",
           "href": "/site/es/3-6-1",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "3-7-1",
-          "title": "Proporción de mujeres en edad de procrear (entre 15 y 49 años) que cubren sus necesidades de planificación familiar con métodos modernos",
+          "title": "Proportion of women of reproductive age (aged 15-49 years) who have their need for family planning satisfied with modern methods",
           "description": "",
           "keywords": "",
           "href": "/site/es/3-7-1",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "3-7-2",
@@ -367,11 +367,11 @@
         },
         {
           "id": "3-8-1",
-          "title": "Cobertura de los servicios de salud esenciales",
+          "title": "Coverage of essential health services",
           "description": "",
           "keywords": "",
           "href": "/site/es/3-8-1",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "3-8-2",
@@ -407,11 +407,11 @@
         },
         {
           "id": "3-a-1",
-          "title": "Prevalencia del consumo actual de tabaco a partir de los 15 años de edad (edades ajustadas)",
+          "title": "Age-standardized prevalence of current tobacco use among persons aged 15 years and older",
           "description": "",
           "keywords": "",
           "href": "/site/es/3-a-1",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "3-b-1",
@@ -431,19 +431,19 @@
         },
         {
           "id": "3-b-3",
-          "title": "Proporción de centros de salud que disponen de un conjunto básico de medicamentos esenciales asequibles de manera sostenible",
+          "title": "Proportion of health facilities that have a core set of relevant essential medicines available and affordable on a sustainable basis",
           "description": "",
           "keywords": "",
           "href": "/site/es/3-b-3",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "3-c-1",
-          "title": "Densidad y distribución del personal sanitario",
+          "title": "Health worker density and distribution",
           "description": "",
           "keywords": "",
           "href": "/site/es/3-c-1",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "3-d-1",
@@ -511,11 +511,11 @@
         },
         {
           "id": "4-4-1",
-          "title": "Proporción de jóvenes y adultos con competencias en tecnología de la información y las comunicaciones (TIC), desglosada por tipo de competencia técnica",
+          "title": "Proportion of youth and adults with information and communications technology (ICT) skills, by type of skill",
           "description": "",
           "keywords": "",
           "href": "/site/es/4-4-1",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "4-5-1",
@@ -527,11 +527,11 @@
         },
         {
           "id": "4-6-1",
-          "title": "Proporción de la población en un grupo de edad determinado que ha alcanzado al menos un nivel fijo de competencia funcional en a) alfabetización y b) nociones elementales de aritmética, desglosada por sexo",
+          "title": "Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (a) literacy and (b) numeracy skills, by sex",
           "description": "",
           "keywords": "",
           "href": "/site/es/4-6-1",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "4-7-1",
@@ -575,19 +575,19 @@
         
         {
           "id": "5-1-1",
-          "title": "Determinar si existen o no marcos jurídicos para promover, hacer cumplir y supervisar la igualdad y la no discriminación por razón de sexo",
+          "title": "Whether or not legal frameworks are in place to promote, enforce and monitor equality and non-discrimination on the basis of sex",
           "description": "",
           "keywords": "",
           "href": "/site/es/5-1-1",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "5-2-1",
-          "title": "Proporción de mujeres y niñas a partir de 15 años de edad que han sufrido violencia física, sexual o psicológica a manos de su actual o anterior pareja en los últimos 12 meses, desglosada por forma de violencia y edad",
+          "title": "Proportion of ever-partnered women and girls aged 15 years and older subjected to physical, sexual or psychological violence by a current or former intimate partner in the previous 12 months, by form of violence and by age",
           "description": "",
           "keywords": "",
           "href": "/site/es/5-2-1",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "5-2-2",
@@ -623,11 +623,11 @@
         },
         {
           "id": "5-5-1",
-          "title": "Proporción de escaños ocupados por mujeres en a) los parlamentos nacionales y b) los gobiernos locales",
+          "title": "Proportion of seats held by women in (a) national parliaments and (b) local governments",
           "description": "",
           "keywords": "",
           "href": "/site/es/5-5-1",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "5-5-2",
@@ -671,11 +671,11 @@
         },
         {
           "id": "5-b-1",
-          "title": "Proporción de personas que poseen un teléfono móvil, desglosada por sexo",
+          "title": "Proportion of individuals who own a mobile telephone, by sex",
           "description": "",
           "keywords": "",
           "href": "/site/es/5-b-1",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "5-c-1",
@@ -695,19 +695,19 @@
         
         {
           "id": "6-1-1",
-          "title": "Proporción de la población que utiliza servicios de suministro de agua potable gestionados sin riesgos",
+          "title": "Proportion of population using safely managed drinking water services",
           "description": "",
           "keywords": "",
           "href": "/site/es/6-1-1",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "6-2-1",
-          "title": "Proporción de la población que utiliza: a) servicios de saneamiento gestionados sin riesgos y b) instalaciones para el lavado de manos con agua y jabón",
+          "title": "Proportion of population using (a) safely managed sanitation services and (b) a hand-washing facility with soap and water",
           "description": "",
           "keywords": "",
           "href": "/site/es/6-2-1",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "6-3-1",
@@ -727,11 +727,11 @@
         },
         {
           "id": "6-4-1",
-          "title": "Cambio en el uso eficiente de los recursos hídricos con el paso del tiempo",
+          "title": "Change in water-use efficiency over time",
           "description": "",
           "keywords": "",
           "href": "/site/es/6-4-1",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "6-4-2",
@@ -791,19 +791,19 @@
         
         {
           "id": "7-1-1",
-          "title": "Proporción de la población que tiene acceso a la electricidad",
+          "title": "Proportion of population with access to electricity",
           "description": "",
           "keywords": "",
           "href": "/site/es/7-1-1",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "7-1-2",
-          "title": "Proporción de la población cuya fuente primaria de energía son los combustibles y tecnologías limpios",
+          "title": "Proportion of population with primary reliance on clean fuels and technology",
           "description": "",
           "keywords": "",
           "href": "/site/es/7-1-2",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "7-2-1",
@@ -831,11 +831,11 @@
         },
         {
           "id": "7-b-1",
-          "title": "Capacidad instalada de generación de energía renovable en los países en desarrollo (expresada en vatios per cápita)",
+          "title": "Installed renewable energy-generating capacity in developing countries (in watts per capita)",
           "description": "",
           "keywords": "",
           "href": "/site/es/7-b-1",
-          "status": "notstarted"
+          "status": "complete"
         }]
     }
   },
@@ -847,27 +847,27 @@
         
         {
           "id": "8-1-1",
-          "title": "Tasa de crecimiento anual del PIB real per cápita",
+          "title": "Annual growth rate of real GDP per capita",
           "description": "",
           "keywords": "",
           "href": "/site/es/8-1-1",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "8-2-1",
-          "title": "Tasa de crecimiento anual del PIB real por persona empleada",
+          "title": "Annual growth rate of real GDP per employed person",
           "description": "",
           "keywords": "",
           "href": "/site/es/8-2-1",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "8-3-1",
-          "title": "Proporción de empleo informal con respecto al empleo total, desglosada por sector y sexo",
+          "title": "Proportion of informal employment in total employment, by sector and sex",
           "description": "",
           "keywords": "",
           "href": "/site/es/8-3-1",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "8-4-1",
@@ -895,19 +895,19 @@
         },
         {
           "id": "8-5-2",
-          "title": "Tasa de desempleo, desglosada por sexo, edad y personas con discapacidad",
+          "title": "Unemployment rate, by sex, age and persons with disabilities",
           "description": "",
           "keywords": "",
           "href": "/site/es/8-5-2",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "8-6-1",
-          "title": "Proporción de jóvenes (entre 15 y 24 años) que no cursan estudios, no están empleados ni reciben capacitación",
+          "title": "Proportion of youth (aged 15-24 years) not in education, employment or training",
           "description": "",
           "keywords": "",
           "href": "/site/es/8-6-1",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "8-7-1",
@@ -935,11 +935,11 @@
         },
         {
           "id": "8-9-1",
-          "title": "PIB generado directamente por el turismo en proporción al PIB total y a la tasa de crecimiento",
+          "title": "Tourism direct GDP as a proportion of total GDP and in growth rate",
           "description": "",
           "keywords": "",
           "href": "/site/es/8-9-1",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "8-10-1",
@@ -999,19 +999,19 @@
         },
         {
           "id": "9-2-1",
-          "title": "Valor añadido del sector manufacturo en proporción al PIB y per cápita",
+          "title": "Manufacturing value added as a proportion of GDP and per capita",
           "description": "",
           "keywords": "",
           "href": "/site/es/9-2-1",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "9-2-2",
-          "title": "Empleo del sector manufacturero en proporción al empleo total",
+          "title": "Manufacturing employment as a proportion of total employment",
           "description": "",
           "keywords": "",
           "href": "/site/es/9-2-2",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "9-3-1",
@@ -1031,11 +1031,11 @@
         },
         {
           "id": "9-4-1",
-          "title": "Emisiones de CO2 por unidad de valor añadido",
+          "title": "CO2 emission per unit of value added",
           "description": "",
           "keywords": "",
           "href": "/site/es/9-4-1",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "9-5-1",
@@ -1071,11 +1071,11 @@
         },
         {
           "id": "9-c-1",
-          "title": "Proporción de la población con cobertura de red móvil, desglosada por tecnología",
+          "title": "Proportion of population covered by a mobile network, by technology",
           "description": "",
           "keywords": "",
           "href": "/site/es/9-c-1",
-          "status": "notstarted"
+          "status": "complete"
         }]
     }
   },
@@ -1087,11 +1087,11 @@
         
         {
           "id": "10-1-1",
-          "title": "Tasas de crecimiento per cápita de los gastos o ingresos de los hogares del 40% más pobre de la población y la población total",
+          "title": "Growth rates of household expenditure or income per capita among the bottom 40 per cent of the population and the total population",
           "description": "",
           "keywords": "",
           "href": "/site/es/10-1-1",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "10-2-1",
@@ -1127,11 +1127,11 @@
         },
         {
           "id": "10-5-1",
-          "title": "Indicadores de solidez financiera",
+          "title": "Financial Soundness Indicators",
           "description": "",
           "keywords": "",
           "href": "/site/es/10-5-1",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "10-6-1",
@@ -1207,19 +1207,19 @@
         
         {
           "id": "11-1-1",
-          "title": "Proporción de la población urbana que vive en barrios marginales, asentamientos informales o viviendas inadecuadas",
+          "title": "Proportion of urban population living in slums, informal settlements or inadequate housing",
           "description": "",
           "keywords": "",
           "href": "/site/es/11-1-1",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "11-2-1",
-          "title": "Proporción de la población que tiene fácil acceso al transporte público, desglosada por sexo, edad y personas con discapacidad",
+          "title": "Proportion of population that has convenient access to public transport, by sex, age and persons with disabilities",
           "description": "",
           "keywords": "",
           "href": "/site/es/11-2-1",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "11-3-1",
@@ -1231,19 +1231,19 @@
         },
         {
           "id": "11-3-2",
-          "title": "Proporción de ciudades que cuentan con una estructura de participación directa de la sociedad civil en la planificación y la gestión urbanas y funcionan con regularidad y democráticamente",
+          "title": "Proportion of cities with a direct participation structure of civil society in urban planning and management that operate regularly and democratically",
           "description": "",
           "keywords": "",
           "href": "/site/es/11-3-2",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "11-4-1",
-          "title": "Total de gastos per cápita destinados a la preservación, protección y conservación de todo el patrimonio cultural y natural, desglosado por fuente de financiación (pública y privada), tipo de patrimonio (cultural y natural) y nivel de gobierno (nacional, regional y local/municipal)",
+          "title": "Total per capita expenditure on the preservation, protection and conservation of all cultural and natural heritage, by source of funding (public, private), type of heritage (cultural, natural) and level of government (national, regional, and local/municipal)",
           "description": "",
           "keywords": "",
           "href": "/site/es/11-4-1",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "11-5-1",
@@ -1271,11 +1271,11 @@
         },
         {
           "id": "11-6-1",
-          "title": "Proporción de residuos sólidos municipales recogidos y administrados en instalaciones controladas con respecto al total de residuos municipales generados, desglosada por ciudad",
+          "title": "Proportion of municipal solid waste collected and managed in controlled facilities out of total municipal waste generated, by cities",
           "description": "",
           "keywords": "",
           "href": "/site/es/11-6-1",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "11-6-2",
@@ -1311,19 +1311,19 @@
         },
         {
           "id": "11-b-1",
-          "title": "Número de países que adoptan y aplican estrategias nacionales de reducción del riesgo de desastres en consonancia con el Marco de Sendái para la Reducción del Riesgo de Desastres 2015‐2030",
+          "title": "Number of countries that adopt and implement national disaster risk reduction strategies in line with the Sendai Framework for Disaster Risk Reduction 2015-2030",
           "description": "",
           "keywords": "",
           "href": "/site/es/11-b-1",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "11-b-2",
-          "title": "Proporción de gobiernos locales que adoptan y aplican estrategias locales de reducción del riesgo de desastres en consonancia con las estrategias nacionales de reducción del riesgo de desastres",
+          "title": "Proportion of local governments that adopt and implement local disaster risk reduction strategies in line with national disaster risk reduction strategies",
           "description": "",
           "keywords": "",
           "href": "/site/es/11-b-2",
-          "status": "notstarted"
+          "status": "complete"
         }]
     }
   },
@@ -1415,11 +1415,11 @@
         },
         {
           "id": "12-a-1",
-          "title": "Capacidad instalada de generación de energía renovable en los países en desarrollo (expresada en vatios per cápita)",
+          "title": "Installed renewable energy-generating capacity in developing countries (in watts per capita)",
           "description": "",
           "keywords": "",
           "href": "/site/es/12-a-1",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "12-b-1",
@@ -1455,35 +1455,35 @@
         },
         {
           "id": "13-1-2",
-          "title": "Número de países que adoptan y aplican estrategias nacionales de reducción del riesgo de desastres en consonancia con el Marco de Sendái para la Reducción del Riesgo de Desastres 2015‐2030",
+          "title": "Number of countries that adopt and implement national disaster risk reduction strategies in line with the Sendai Framework for Disaster Risk Reduction 2015-2030",
           "description": "",
           "keywords": "",
           "href": "/site/es/13-1-2",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "13-1-3",
-          "title": "Proporción de gobiernos locales que adoptan y aplican estrategias locales de reducción del riesgo de desastres en consonancia con las estrategias nacionales de reducción del riesgo de desastres",
+          "title": "Proportion of local governments that adopt and implement local disaster risk reduction strategies in line with national disaster risk reduction strategies",
           "description": "",
           "keywords": "",
           "href": "/site/es/13-1-3",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "13-2-1",
-          "title": "Número de países con contribuciones determinadas a nivel nacional, estrategias a largo plazo y planes y estrategias nacionales de adaptación y estrategias indicadas en comunicaciones sobre la adaptación y comunicaciones nacionales",
+          "title": "Number of countries with nationally determined contributions, long-term strategies, national adaptation plans and adaptation communications, as reported to the secretariat of the United Nations Framework Convention on Climate Change",
           "description": "",
           "keywords": "",
           "href": "/site/es/13-2-1",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "13-2-2",
-          "title": "Emisiones totales de gases de efecto invernadero por año",
+          "title": "Total greenhouse gas emissions per year",
           "description": "",
           "keywords": "",
           "href": "/site/es/13-2-2",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "13-3-1",
@@ -1727,11 +1727,11 @@
         
         {
           "id": "16-1-1",
-          "title": "Número de víctimas de homicidios intencionales por cada 100.000 habitantes, desglosado por sexo y edad",
+          "title": "Number of victims of intentional homicide per 100,000 population, by sex and age",
           "description": "",
           "keywords": "",
           "href": "/site/es/16-1-1",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "16-1-2",
@@ -1743,19 +1743,19 @@
         },
         {
           "id": "16-1-3",
-          "title": "Proporción de la población que ha sufrido a) violencia física, b) violencia psicológica y c) violencia sexual en los últimos 12 meses",
+          "title": "Proportion of population subjected to (a) physical violence, (b) psychological violence and (c) sexual violence in the previous 12 months",
           "description": "",
           "keywords": "",
           "href": "/site/es/16-1-3",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "16-1-4",
-          "title": "Proporción de la población que se siente segura al caminar sola en su zona de residencia",
+          "title": "Proportion of population that feel safe walking alone around the area they live after dark",
           "description": "",
           "keywords": "",
           "href": "/site/es/16-1-4",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "16-2-1",
@@ -1775,11 +1775,11 @@
         },
         {
           "id": "16-2-3",
-          "title": "Proporción de mujeres y hombres jóvenes de entre 18 y 29 años que sufrieron violencia sexual antes de cumplir los 18 años",
+          "title": "Proportion of young women and men aged 18-29 years who experienced sexual violence by age 18",
           "description": "",
           "keywords": "",
           "href": "/site/es/16-2-3",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "16-3-1",
@@ -1823,11 +1823,11 @@
         },
         {
           "id": "16-5-1",
-          "title": "Proporción de personas que han tenido al menos un contacto con un funcionario público y que han pagado un soborno a un funcionario público, o a las que un funcionario público les ha pedido un soborno, durante los últimos 12 meses",
+          "title": "Proportion of persons who had at least one contact with a public official and who paid a bribe to a public official, or were asked for a bribe by those public officials, during the previous 12 months",
           "description": "",
           "keywords": "",
           "href": "/site/es/16-5-1",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "16-5-2",
@@ -1839,27 +1839,27 @@
         },
         {
           "id": "16-6-1",
-          "title": "Gastos primarios del gobierno en proporción al presupuesto aprobado originalmente, desglosados por sector (o por códigos presupuestarios o elementos similares)",
+          "title": "Primary government expenditures as a proportion of original approved budget, by sector (or by budget codes or similar)",
           "description": "",
           "keywords": "",
           "href": "/site/es/16-6-1",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "16-6-2",
-          "title": "Proporción de la población que se siente satisfecha con su última experiencia de los servicios públicos",
+          "title": "Proportion of population satisfied with their last experience of public services",
           "description": "",
           "keywords": "",
           "href": "/site/es/16-6-2",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "16-7-1",
-          "title": "Proporciones de plazas en las instituciones nacionales y locales, entre ellas: a) las asambleas legislativas, b) la administración pública y c) el poder judicial, en comparación con la distribución nacional, desglosadas por sexo, edad, personas con discapacidad y grupos de población",
+          "title": "Proportions of positions in national and local institutions, including (a) the legislatures; (b) the public service; and (c) the judiciary, compared to national distributions, by sex, age, persons with disabilities and population groups",
           "description": "",
           "keywords": "",
           "href": "/site/es/16-7-1",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "16-7-2",
@@ -1935,11 +1935,11 @@
         },
         {
           "id": "17-1-2",
-          "title": "Proporción del presupuesto nacional financiado por impuestos internos",
+          "title": "Proportion of domestic budget funded by domestic taxes",
           "description": "",
           "keywords": "",
           "href": "/site/es/17-1-2",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "17-2-1",
@@ -1983,11 +1983,11 @@
         },
         {
           "id": "17-6-1",
-          "title": "Número de abonados a Internet de banda ancha fija por cada 100 habitantes, desglosado por velocidad",
+          "title": "Fixed Internet broadband subscriptions per 100 inhabitants, by speed",
           "description": "",
           "keywords": "",
           "href": "/site/es/17-6-1",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "17-7-1",
@@ -2047,11 +2047,11 @@
         },
         {
           "id": "17-14-1",
-          "title": "Número de países que cuentan con mecanismos para mejorar la coherencia de las políticas de desarrollo sostenible",
+          "title": "Number of countries with mechanisms in place to enhance policy coherence of sustainable development",
           "description": "",
           "keywords": "",
           "href": "/site/es/17-14-1",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "17-15-1",
@@ -2063,11 +2063,11 @@
         },
         {
           "id": "17-16-1",
-          "title": "Número de países que informan de sus progresos en los marcos de múltiples interesados para el seguimiento de la eficacia de las actividades de desarrollo que apoyan el logro de los Objetivos de Desarrollo Sostenible",
+          "title": "Number of countries reporting progress in multi-stakeholder development effectiveness monitoring frameworks that support the achievement of the sustainable development goals",
           "description": "",
           "keywords": "",
           "href": "/site/es/17-16-1",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "17-17-1",
